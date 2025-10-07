@@ -32,7 +32,7 @@
 .container button {
     display: flex;
     align-items: center;
-   background: linear-gradient(148deg, #f8b202, #f2d76b);
+   background: linear-gradient(170deg, #ffd900, #d5d558);
    color: #fff;
    font-size: 16px;
    font-weight: 600;
@@ -43,7 +43,7 @@
    border-radius: 40px;
    margin: 30px 0 20px;
    cursor: pointer;
-   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+   box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.8);
     transition: 0.3s ease;
    
 }
