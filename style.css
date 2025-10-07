@@ -84,8 +84,9 @@
 
 @media (max-width: 600px) {
     .container {
-        padding-left: 5%;
-        padding-top: 3%;
+        
+        padding-left: 6%;
+        padding-top: 8%;
     }
 
     .container h1 {
@@ -99,13 +100,14 @@
 
     .input-box {
         max-width: 100%;
-        min-height: 120px;
+        min-height: 100px;
         margin: 15px 0;
-        padding: 15px;
+        padding-left: 10px;
+        padding-top: 10px;
     }
 
     .input-box p {
-        min-height: 120px;
+        min-height: 100px;
         font-size: 14px;
     }
 
